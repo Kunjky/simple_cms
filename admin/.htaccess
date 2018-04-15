@@ -1,0 +1,4 @@
+AuthName "My Protected Area"
+AuthType Basic
+AuthUserFile /home/hai/Learn\sStuff/Learn\sPHP/simple\scms/admin/.htpasswd
+require valid-user
